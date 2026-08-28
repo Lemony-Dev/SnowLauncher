@@ -1,2 +1,0 @@
-# SnowLauncher
-SnowLauncher Mobile/PC
